@@ -5,7 +5,7 @@
 
 #include"TTT.h"
 
-int main(main())
+int main()
 {
 	ttt gameObj;
 	getchar();
